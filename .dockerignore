@@ -1,0 +1,10 @@
+# Ignore virtual environment
+.venv/
+venv/
+
+# Ignore IDE dir
+.idea/
+
+# Ignore git and cache dirs
+.git
+.cache
